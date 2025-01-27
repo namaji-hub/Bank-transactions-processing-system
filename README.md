@@ -1,8 +1,8 @@
 # Bank-transactions-processing-system
-Project Overview
+**Project Overview**
 This project implements a robust banking transaction management system using PL/SQL. It processes transactions like deposits, withdrawals, and account updates while ensuring data consistency and integrity. The system is designed to handle pending transactions efficiently and maintains error handling for critical operations such as insufficient funds and nonexistent accounts.
 
-Key Features
+**Key Features**
 Automated Transactions:
 Processes deposits and withdrawals dynamically.
 Updates account balances in real-time.
